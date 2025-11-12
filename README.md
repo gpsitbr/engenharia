@@ -2,7 +2,7 @@
   
 # 🚀 BU Engenharia - GPS IT
 
-![GPS IT Services](https://img.shields.io/badge/GPS_IT-Engenharia-blue?style=for-the-badge)
+![GPS IT](https://img.shields.io/badge/GPS_IT-Engenharia-blue?style=for-the-badge)
 ![Cisco Partner](https://img.shields.io/badge/Cisco-Partner-1BA0D7?style=for-the-badge&logo=cisco)
 ![Fortinet Partner](https://img.shields.io/badge/Fortinet-Partner-EE3124?style=for-the-badge&logo=fortinet)
 ![Security](https://img.shields.io/badge/Security-First-green?style=for-the-badge&logo=security)
@@ -31,7 +31,6 @@
 - [Metodologia](#-metodologia)
 - [Stack Tecnológico](#-stack-tecnológico)
 - [Casos de Uso](#-casos-de-uso)
-- [Roadmap](#-roadmap)
 - [Como Trabalhamos](#-como-trabalhamos)
 - [Contato](#-contato)
 
@@ -270,12 +269,12 @@ Implementação e gestão de soluções Fortinet para segurança de perímetro, 
 
 ```plaintext
 ┌─────────────────────────────────────────────────────────────┐
-│                  SECURITY OPERATIONS CENTER                  │
+│                  SECURITY OPERATIONS CENTER                 │
 ├─────────────────────────────────────────────────────────────┤
-│  🔍 Threat Detection    │  🛡️ Incident Response            │
-│  🔐 Vulnerability Mgmt  │  📊 Security Analytics           │
-│  🚨 SIEM/SOAR          │  🎯 Threat Hunting               │
-│  📋 Compliance         │  🔒 Zero Trust Architecture      │
+│  🔍 Threat Detection     │  🛡️ Incident Response            │
+│  🔐 Vulnerability Mgmt   │  📊 Security Analytics           │
+│  🚨 SIEM/SOAR            │  🎯 Threat Hunting               │
+│  📋 Compliance           │ 🔒 Zero Trust Architecture       │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -292,13 +291,13 @@ Implementação e gestão de soluções Fortinet para segurança de perímetro, 
 
 ### ⚙️ DevOps & Automação
 
-**Práticas DevOps de Classe Mundial:**
+**Práticas DevOps de Mercado:**
 
 - 🔄 **CI/CD Pipelines**: GitLab CI, GitHub Actions, Jenkins
-- 🐳 **Containerization**: Docker, Kubernetes, OpenShift
-- 📦 **Infrastructure as Code**: Terraform, Ansible, Puppet
+- 🐳 **Containerization**: Docker, Kubernetes, Podman
+- 📦 **Infrastructure as Code**: Ansible, Puppet
 - 🔧 **Configuration Management**: Ansible, Salt, Chef
-- 📊 **Monitoring & Observability**: Prometheus, Grafana, ELK Stack
+- 📊 **Monitoring & Observability**: Prometheus, Grafana, Signoz
 - 🚀 **GitOps**: ArgoCD, Flux para deployments declarativos
 
 **Stack de Automação:**
@@ -359,14 +358,14 @@ graph TD
 
 ```plaintext
 ╔════════════════════════════════════════════════════════════╗
-║              MODERN INFRASTRUCTURE STACK                    ║
+║              MODERN INFRASTRUCTURE STACK                   ║
 ╠════════════════════════════════════════════════════════════╣
-║  Cloud Platforms:    AWS | Azure | GCP | Oracle Cloud     ║
+║  Cloud Platforms:    AWS | Azure | GCP                     ║
 ║  Hybrid Cloud:       VMware | Nutanix | OpenStack          ║
-║  Container Platform: Kubernetes | Docker | OpenShift       ║
+║  Container Platform: Kubernetes | Docker | Podman          ║
 ║  Service Mesh:       Istio | Linkerd | Consul              ║
-║  Observability:      Prometheus | Grafana | Datadog        ║
-║  CI/CD:             GitLab | GitHub Actions | ArgoCD       ║
+║  Observability:      Prometheus | Grafana | Signoz         ║
+║  CI/CD:              GitLab | GitHub Actions | ArgoCD      ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
@@ -381,15 +380,15 @@ Nossa equipe é composta por **engenheiros seniores e especialistas** com profun
 
 ### 🔬 Áreas de Expertise
 
-| Especialidade | Nível | Tecnologias Principais |
-|---------------|-------|------------------------|
-| **Network Engineering** | Senior | Cisco, Fortinet, Juniper, Arista |
-| **Security Engineering** | Expert | ISE, Duo, Umbrella, FortiGate, SIEM |
-| **DevOps Engineering** | Senior | Kubernetes, Terraform, Ansible, CI/CD |
-| **SecOps Engineering** | Expert | SOAR, Threat Intelligence, Incident Response |
-| **Cloud Architecture** | Senior | AWS, Azure, GCP, Multi-Cloud |
-| **AIOps Engineering** | Advanced | Python, ML/AI, LLMs, Automation |
-| **Automation Engineering** | Expert | Python, n8n, REST APIs, Scripting |
+| Especialidade              |   Nível    | Tecnologias Principais                       |
+|----------------------------|------------|----------------------------------------------|
+| **Network Engineering**    | Senior     | Cisco, Fortinet                              |
+| **Security Engineering**   | Expert     | ISE, Duo, Umbrella, FortiGate, SIEM          |
+| **DevOps Engineering**     | Senior     | Kubernetes, Docker, Ansible, CI/CD           |
+| **SecOps Engineering**     | Expert     | SOAR, Threat Intelligence, Incident Response |
+| **Cloud Architecture**     | Senior     | AWS, Azure, GCP, Multi-Cloud                 |
+| **AIOps Engineering**      | Advanced   | Python, ML/AI, LLMs, Automation              |
+| **Automation Engineering** | Expert     | Python, n8n, REST APIs, Scripting            |
 
 ---
 
@@ -595,7 +594,7 @@ security_monitoring_stack:
   
   application_monitoring:
     - New Relic: "APM and observability"
-    - Datadog: "Full-stack monitoring"
+    - Signoz: "Full-stack monitoring"
     - Dynatrace: "AI-powered monitoring"
   
   vulnerability_management:
@@ -836,13 +835,13 @@ Este repositório contém informações proprietárias e confidenciais. O uso n�
 
 ```plaintext
 ┌─────────────────────────────────────────────────────────┐
-│  🚀 Vamos construir o futuro da sua infraestrutura!    │
+│  🚀 Vamos construir o futuro da sua infraestrutura!     │
 │                                                         │
-│  Entre em contato hoje mesmo:                          │
-│  📧 comercial@gpsit.com.br                            │
-│  📞 +55 (XX) XXXX-XXXX                                 │
+│  Entre em contato hoje mesmo:                           │
+│  📧 comercial@gpsit.com.br                              │
+│  📞 +55 (XX) XXXX-XXXX                                  │
 │                                                         │
-│  ✨ Assessment gratuito para novos clientes            │
+│  ✨ Assessment gratuito para novos clientes             │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -850,9 +849,9 @@ Este repositório contém informações proprietárias e confidenciais. O uso n�
 
 <div align="center">
 
-### ⭐ **Transformando Desafios em Soluções desde [ANO]** ⭐
-
-**GPS IT - BU Engenharia**  
+### ⭐ **Transformando Desafios em Soluções desde 2010** ⭐
+ 
+**GPS IT - BU Engenharia - 2025**  
 *Excelência Técnica • Inovação Contínua • Resultados Mensuráveis*
 
 [![Website](https://img.shields.io/badge/Website-gpsit.com.br-blue?style=for-the-badge)](https://gpsit.com.br)
