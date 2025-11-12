@@ -1,6 +1,6 @@
-# 🚀 BU Engenharia - GPS IT
-
 <div align="center">
+  
+# 🚀 BU Engenharia - GPS IT
 
 ![GPS IT Services](https://img.shields.io/badge/GPS_IT-Engenharia-blue?style=for-the-badge)
 ![Cisco Partner](https://img.shields.io/badge/Cisco-Partner-1BA0D7?style=for-the-badge&logo=cisco)
@@ -8,11 +8,11 @@
 ![Security](https://img.shields.io/badge/Security-First-green?style=for-the-badge&logo=security)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-orange?style=for-the-badge&logo=artificial-intelligence)
 
-### **Soluções Enterprise de Infraestrutura, Segurança e Automação Inteligente**
+### **Soluções Enterprise em Redes, Segurança, Infraestrutura e Automação Inteligente**
 
 *Transformando desafios complexos em soluções elegantes através de engenharia de excelência*
 
-[Sobre Nós](#-sobre-a-bu-engenharia) • [Soluções](#-soluções-e-tecnologias) • [Equipe](#-nossa-equipe) • [Projetos](#-projetos-em-destaque) • [Contato](#-contato)
+[Sobre Nós](#-sobre-a-bu-engenharia) • [Soluções](#-soluções-e-tecnologias) • [Equipe](#-nossa-equipe) • [Contato](#-contato)
 
 </div>
 
