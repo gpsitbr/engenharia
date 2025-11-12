@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 BU Engenharia - GPS IT
+# 🚀 BU ENGENHARIA - GPS IT
 
 ![GPS IT](https://img.shields.io/badge/GPS_IT-Engenharia-blue?style=for-the-badge)
 ![Cisco Partner](https://img.shields.io/badge/Cisco-Partner-1BA0D7?style=for-the-badge&logo=cisco)
