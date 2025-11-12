@@ -38,7 +38,7 @@
 
 ## 🎯 Sobre a BU Engenharia
 
-A **BU Engenharia da GPS IT Services** é um centro de excelência especializado em arquitetar, implementar e operar soluções corporativas de infraestrutura de rede, cibersegurança e automação inteligente. Combinamos expertise técnica de nível mundial com as tecnologias mais avançadas do mercado para entregar resultados excepcionais.
+A **BU Engenharia da GPS IT** é um centro de excelência especializado em arquitetar, implementar e operar soluções corporativas de infraestrutura de rede, cibersegurança e automação inteligente. Combinamos expertise técnica de alta capacitação com as tecnologias mais avançadas do mercado para entregar resultados excepcionais.
 
 ### 🌟 Nossos Diferenciais
 
